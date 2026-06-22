@@ -1,0 +1,25 @@
+﻿using System;
+class Program
+{
+    static void Main()
+    {
+        Console.Write("enter:");
+        int n=Convert.ToInt32(Console.ReadLine());
+        int rev=0;
+        int original=n;
+        while(n>0)
+        {
+            int rem=n%10;
+            rev=rev*10+rem;
+            n=n/10;
+        }
+        if(original==rev)
+        {
+            Console.WriteLine($"{original} is a Palindrome");
+        }
+        else
+        {
+            Console.WriteLine($"{original} is not a Palindrome");
+        }
+    }
+}

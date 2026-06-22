@@ -1,0 +1,30 @@
+﻿using System;
+class Program
+{
+    static void Main()
+    {
+        Console.Write("enter name:");
+        string name=Console.ReadLine()!;
+
+        Console.Write("enter age:");
+        int age=Convert.ToInt32(Console.ReadLine()!);
+
+        Console.Write("enter Father name:");
+        string FatherName=Console.ReadLine()!;
+
+        Console.Write("enter Mother name:");
+        string MotherName =Console.ReadLine()!;
+
+
+        Console.Write("enter Village:");
+        string City=Console.ReadLine()!;
+        
+        Console.WriteLine("----Person Details---");
+        Console.WriteLine("......................");
+        Console.WriteLine($"Name        : {name}.");
+        Console.WriteLine($"Age         : {age}.");
+        Console.WriteLine($"Father Name : {FatherName}.");
+        Console.WriteLine($"Mother Name : {MotherName}.");
+        Console.WriteLine($"City        : {City}.");
+    }
+}

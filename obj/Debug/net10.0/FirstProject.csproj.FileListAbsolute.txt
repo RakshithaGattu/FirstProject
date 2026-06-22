@@ -1,0 +1,14 @@
+/Users/sweety/DOTNETLEARNING/FirstProject/obj/Debug/net10.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sweety/DOTNETLEARNING/FirstProject/obj/Debug/net10.0/FirstProject.AssemblyInfoInputs.cache
+/Users/sweety/DOTNETLEARNING/FirstProject/obj/Debug/net10.0/FirstProject.AssemblyInfo.cs
+/Users/sweety/DOTNETLEARNING/FirstProject/obj/Debug/net10.0/FirstProject.csproj.CoreCompileInputs.cache
+/Users/sweety/DOTNETLEARNING/FirstProject/bin/Debug/net10.0/FirstProject
+/Users/sweety/DOTNETLEARNING/FirstProject/bin/Debug/net10.0/FirstProject.deps.json
+/Users/sweety/DOTNETLEARNING/FirstProject/bin/Debug/net10.0/FirstProject.runtimeconfig.json
+/Users/sweety/DOTNETLEARNING/FirstProject/bin/Debug/net10.0/FirstProject.dll
+/Users/sweety/DOTNETLEARNING/FirstProject/bin/Debug/net10.0/FirstProject.pdb
+/Users/sweety/DOTNETLEARNING/FirstProject/obj/Debug/net10.0/FirstProject.dll
+/Users/sweety/DOTNETLEARNING/FirstProject/obj/Debug/net10.0/refint/FirstProject.dll
+/Users/sweety/DOTNETLEARNING/FirstProject/obj/Debug/net10.0/FirstProject.pdb
+/Users/sweety/DOTNETLEARNING/FirstProject/obj/Debug/net10.0/FirstProject.genruntimeconfig.cache
+/Users/sweety/DOTNETLEARNING/FirstProject/obj/Debug/net10.0/ref/FirstProject.dll

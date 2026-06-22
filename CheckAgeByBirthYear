@@ -1,0 +1,23 @@
+﻿using System;
+class Program
+{
+    static void Main()
+    {
+        Console.Write("enter birthyear:");
+        int birthyear=Convert.ToInt32(Console.ReadLine()!);
+
+        Console.Write("enter current year:");
+        int currentyear=Convert.ToInt32(Console.ReadLine()!);
+        
+        if(birthyear>currentyear)
+        {
+            Console.WriteLine("Invalid Birthyear");
+        }
+        else
+        {
+            int age=currentyear-birthyear;
+            Console.WriteLine($"Age:{age}");
+        }
+        
+    }
+}

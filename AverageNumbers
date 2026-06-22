@@ -1,0 +1,20 @@
+﻿using System;
+class Program
+{
+    static void Main()
+    {
+        Console.Write("enter a:");
+        int a=Convert.ToInt32(Console.ReadLine()!);
+        Console.Write("enter b:");
+        int b=Convert.ToInt32(Console.ReadLine()!);
+        Console.Write("enter c:");
+        int c=Convert.ToInt32(Console.ReadLine()!);
+        Console.Write("enter d:");
+        int d=Convert.ToInt32(Console.ReadLine()!);
+        int sum=a+b+c+d;
+        int count=4;
+        double avg=(double)sum/count;
+        Console.WriteLine($"Average:{avg}");
+
+    }
+}

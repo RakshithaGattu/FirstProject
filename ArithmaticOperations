@@ -1,0 +1,25 @@
+﻿using System;
+class Program
+{
+    static void Main()
+    {
+        Console.Write("enter:");
+        int a=Convert.ToInt32(Console.ReadLine()!);
+        Console.WriteLine("enter:");
+        int b=Convert.ToInt32(Console.ReadLine()!);
+
+        Console.WriteLine("Arithmatic Operations");
+        Console.WriteLine($"Addition:{a+b}");
+        Console.WriteLine($"Subtraction:{a-b}");
+        Console.WriteLine($"Multiplication:{a*b}");
+        if(b!=0)
+        {
+            double Division=(double)a/b;
+            Console.WriteLine($"Division:{Division}");
+        }
+        else
+        {
+            Console.WriteLine("the number is not applicable for division");
+        }
+    }
+}
